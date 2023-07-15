@@ -8,3 +8,5 @@ CHAT_URL="openai的ChatGPT接口地址"
 API_KEY="openai key"
 ```
 说明：你的接口地址，指的是你安装服务端的地址，默认是你服务器ip:/9000/openai/chat
+# AIGPT_Server
+本客户端需要配合[服务端](https://github.com/lukeewin/AIGPT_Server)一起使用。
